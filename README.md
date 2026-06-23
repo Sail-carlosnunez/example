@@ -11,6 +11,8 @@ A Qt-based application for visualizing and analyzing Ouster LiDAR point clouds w
 
 ![detection_player](https://github.com/user-attachments/assets/3aa1de2d-3059-4d78-8605-ab203b24b90e)
 
+## Features
+
 ### ✅ Core Functionality
 - **PCAP Playback** - Load and play Ouster LiDAR PCAP files
 - **JSON Configuration** - Support for Ouster sensor metadata
@@ -37,34 +39,6 @@ A Qt-based application for visualizing and analyzing Ouster LiDAR point clouds w
 - **Frame Caching** - Fast frame navigation
 - **Efficient Rendering** - Optimized OpenGL visualization
 - **Non-Maximum Suppression** - Reduces overlapping detections
-
-## Installation
-
-### Prerequisites
-- Python 3.9 or higher
-- pip
-
-### Setup
-
-1. **Clone or download this repository**
-
-2. **Install dependencies:**
-
-```bash
-cd lidar_viewer
-pip install -e .
-```
-
-This will install:
-- PyQt6 - Qt framework for Python
-- numpy - Numerical computing
-- pyqtgraph - 3D visualization
-- PyOpenGL - OpenGL bindings
-- ouster-sdk - Ouster LiDAR data processing
-- scipy - Scientific computing
-- scikit-learn - Machine learning utilities
-
-## Usage
 
 ### Running the Application
 
