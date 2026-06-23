@@ -1,4 +1,8 @@
-# LiDAR Point Cloud Viewer
+# OUSTER TAKE HOME PROJECT - COMPLETE IN 1 HOUR
+GOAL: USING THE OUSTER-SDK CREATE A TOOL THAT A TRAFFIC OR SECURITY CUSTOMER WOULD USE.
+
+
+## LiDAR Point Cloud Viewer
 
 A Qt-based application for visualizing and analyzing Ouster LiDAR point clouds with real-time object detection capabilities.
 
@@ -6,8 +10,6 @@ A Qt-based application for visualizing and analyzing Ouster LiDAR point clouds w
 ![Qt](https://img.shields.io/badge/Qt-PyQt6-green.svg)
 
 ![detection_player](https://github.com/user-attachments/assets/3aa1de2d-3059-4d78-8605-ab203b24b90e)
-
-## Features
 
 ### ✅ Core Functionality
 - **PCAP Playback** - Load and play Ouster LiDAR PCAP files
