@@ -1,0 +1,21 @@
+ouster-sdk==0.15.*
+numpy
+pandas
+scikit-learn
+matplotlib
+Pillow
+# Optional:
+# open3d
+# pyarrow
+
+python -m axlescan scan \
+  --pcap data/raw/Urban_Drive.pcap \
+  --meta data/raw/Urban_Drive.json \
+  --out results/urban_drive \
+  --slice 0.10 0.60 \
+  --eps-vehicle 0.35 --eps-wheel 0.20 --pair-dx 0.50 \
+  --min-track-s 1.0 --downsample 0.10 --frames 120 \
+  --export-images --image-mode 2d
+
+3D Thumbnails
+python -m axlescan scan ... --export-images --image-mode 3d
