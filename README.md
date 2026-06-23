@@ -11,7 +11,7 @@ Value proposition to customer: Automated  Vehicle Counter.
 ![LiDAR Viewer](https://img.shields.io/badge/Python-3.9+-blue.svg)
 ![Qt](https://img.shields.io/badge/Qt-PyQt6-green.svg)
 
-![detection_player](https://github.com/user-attachments/assets/3aa1de2d-3059-4d78-8605-ab203b24b90e)
+![detection_player](images/Screenshot%202026-06-23%20095936.png)
 
 ## Features
 
@@ -56,7 +56,7 @@ chmod +x main.py
 ```
 After running main.py you should get
 venv or any direct should work fine.
-![mainpy_startup](https://github.com/user-attachments/assets/6ca52194-a383-4652-84e8-b0efb29b7a59)
+![mainpy_startup](images/Screenshot%202026-06-23%20095955.png)
 
 
 ### Loading Files
@@ -72,7 +72,7 @@ venv or any direct should work fine.
 3. Both files must be loaded for playback to work
 
 ### Controls
-![UI](https://github.com/user-attachments/assets/766ae740-a946-42a5-aa59-717ae5e37021)
+![UI](images/Screenshot%202026-06-23%20100009.png)
 
 #### Visualization Panel
 - **Color Mode**: Choose how points are colored
