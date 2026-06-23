@@ -2,9 +2,11 @@
 GOAL: USING THE OUSTER-SDK CREATE A TOOL THAT A TRAFFIC OR SECURITY CUSTOMER WOULD USE.
 
 
-## LiDAR Point Cloud Viewer
+## LiDAR Point Cloud Viewer and Vehicle Counting
 
-A Qt-based application for visualizing and analyzing Ouster LiDAR point clouds with real-time object detection capabilities.
+How to use the Ouster-SDK to identify, visualize, and count vehicles.
+
+Value proposition to customer: Automated  Vehicle Counter.
 
 ![LiDAR Viewer](https://img.shields.io/badge/Python-3.9+-blue.svg)
 ![Qt](https://img.shields.io/badge/Qt-PyQt6-green.svg)
