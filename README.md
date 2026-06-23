@@ -10,8 +10,7 @@ Value proposition to customer: Automated  Vehicle Counter.
 
 ![LiDAR Viewer](https://img.shields.io/badge/Python-3.9+-blue.svg)
 ![Qt](https://img.shields.io/badge/Qt-PyQt6-green.svg)
-
-![detection_player](images/Screenshot%202026-06-23%20095936.png)
+![UI](images/Screenshot%202026-06-23%20100009.png)
 
 ## Features
 
@@ -72,8 +71,7 @@ venv or any direct should work fine.
 3. Both files must be loaded for playback to work
 
 ### Controls
-![UI](images/Screenshot%202026-06-23%20100009.png)
-
+![UI](images/Screenshot%202026-06-23%20095936.png)
 #### Visualization Panel
 - **Color Mode**: Choose how points are colored
   - Reflectivity: Based on surface reflectivity
